@@ -1,0 +1,93 @@
+.btn-link--sub-components-manajemen-materi {
+    padding: 0.6rem 0;
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    right: 0;
+    bottom: 8;
+    width: 10%;
+    position: absolute;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 0.8rem;
+    margin: 0 0.5rem 0 0.5rem;
+
+    transition: 0.3s;
+}
+
+.btn-link--sub-components-manajemen-materi img {
+    width: 10%;
+    margin: 0 0.3rem;
+    top: 2;
+    position: relative;
+}
+
+.btn-link--sub-components-manajemen-materi:hover {
+    background-color: #cacaca;
+}
+
+.icon-crud-master-size {
+    width: 10%;
+    position: relative;
+    justify-content: center;
+    top: 3;
+    margin-right: 0.3rem;
+}
+
+.icon-crud-master-size-ujian {
+    width: 12%;
+    position: relative;
+    justify-content: center;
+    top: 3;
+    margin-right: 0.3rem;
+}
+
+.icon-crud-master-delete {
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    background-color: #ffb534;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    font-size: 0.8rem;
+    transition: 0.3s;
+}
+.icon-crud-master:hover {
+    background-color: #0c356a;
+}
+
+.icon-crud-master-delete:hover {
+    background-color: #ffa732;
+}
+
+.icon-crud-master {
+    padding: 0.6rem 1rem 0.5rem 1rem;
+    background-color: #2b3499;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 0.8rem;
+    transition: 0.3s;
+}
+
+.icon-delete {
+    position: relative;
+    top: 4;
+    width: 9%;
+}
+
+.lihat-soal {
+    background-color: #ef4040;
+}
+
+.lihat-soal:hover {
+    background-color: #b31312;
+}
+
+.file {
+    background-color: #363062;
+}
+
+.file:hover {
+    background-color: #427d9d;
+}

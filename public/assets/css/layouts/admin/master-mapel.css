@@ -1,0 +1,113 @@
+.btn-link--sub-components-tambah-data {
+    padding: 0.6rem 0.8rem 0.6rem 0.3rem;
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    right: 20;
+    bottom: 8;
+    width: 10%;
+    position: absolute;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 0.8rem;
+
+    transition: 0.3s;
+}
+
+.btn-link--sub-components-tambah-data:hover {
+    background-color: #cacaca;
+}
+
+table {
+    border-collapse: collapse;
+}
+thead {
+    /* width: 100vw; */
+    background-color: black;
+}
+
+tbody {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: medium;
+}
+th {
+    color: #919191;
+    /* width: 100%; */
+    height: 6vh;
+    border: 2px solid #b3b3b3;
+    font-size: 0.8rem;
+}
+
+td {
+    /* height: 3vh; */
+    border: 3px solid #b3b3b3;
+    font-size: 1rem;
+    /* padding: 0.5rem 1rem 1rem 1rem; */
+}
+
+.td-nama-lessons {
+    width: 40vw;
+}
+
+.td-delete {
+    width: 10vw;
+}
+
+.icon-crud-master-size {
+    width: 10%;
+    position: relative;
+    justify-content: center;
+    top: 3;
+    margin-right: 0.3rem;
+}
+
+.icon-crud-master {
+    padding: 0.6rem 1rem 0.5rem 1rem;
+    background-color: #2b3499;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 0.8rem;
+    transition: 0.3s;
+}
+
+.icon-delete {
+    position: relative;
+    top: 4;
+    width: 15%;
+}
+.icon-crud-master-delete {
+    padding: 0.2rem 1rem .5rem 0rem;
+        background-color: #ffb534;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    font-size: 0.8rem;
+    width: 8rem;
+    font-weight: 500;
+    transition: 0.3s;
+    cursor: pointer;
+    border: none;
+}
+.icon-crud-master:hover {
+    background-color: #0c356a;
+}
+
+.icon-crud-master-delete:hover {
+    background-color: #ffa732;
+}
+
+.td-nama-lessons {
+    width: 50vw;
+}
+
+.th-icon {
+    width: 15vw;
+}
+
+.th-nomor {
+    width: 2vw;
+}
